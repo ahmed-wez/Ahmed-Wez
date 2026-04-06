@@ -1,6 +1,6 @@
 hi :)
 
-I'm Ahmed & this is my GitHub
+i'm ahmed & this is my GitHub
 
 have a nice time going through my work!
 
